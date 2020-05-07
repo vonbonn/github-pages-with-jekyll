@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2020-05-06
 ---
 
 edits
